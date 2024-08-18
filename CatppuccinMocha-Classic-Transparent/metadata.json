@@ -1,0 +1,18 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "core@catppuccin.com",
+                "Name": "Catppuccin"
+            }
+        ],
+        "Category": "",
+        "Dependencies": [],
+        "EnabledByDefault": true,
+        "Description": "Soothing Pastel theme for Kwin",
+        "Id": "CatppuccinMocha-Classic-Transparent",
+        "License": "MIT",
+        "Name": "Catppuccin Mocha Classic Transparent",
+        "Version": "0.2.6"
+    }
+}
